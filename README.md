@@ -150,6 +150,15 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 
 <p align="center">
   <i>"Code. Build. Learn. Repeat."</i>
+
+```bash
+> while(alive) {
+    code();
+    learn();
+    improve();
+}
+```
+
 </p>
 
 ---
