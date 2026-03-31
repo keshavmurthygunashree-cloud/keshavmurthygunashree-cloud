@@ -1,19 +1,13 @@
-<!-- 🔥 Welcome Banner -->
+<!-- 🔥 Static Welcome Banner -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=F7D060&size=35&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub" />
-</h1>
+<h1 align="center">✨ Welcome to My GitHub ✨</h1>
 
+<h3 align="center">💻 Code. Build. Ship.</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Coder-black?style=for-the-badge&color=000000&labelColor=111111"/>
-  <img src="https://img.shields.io/badge/Problem-Solver-gold?style=for-the-badge&color=F7D060&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Android-Developer-black?style=for-the-badge&logo=android&logoColor=green"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-gold?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
-
----
-
-<!-- 🌙 Dark Themed GitHub Profile README -->
-<h3 align="center">Android Developer | Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F7D060&size=28&center=true&vCenter=true&width=600&lines=Android+Developer;Frontend+Developer;Problem+Solver;Always+Learning+New+Things" />
@@ -124,7 +118,7 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Always+happy+to+connect+%F0%9F%A4%9D;Drop+a+%E2%AD%90+if+you+like+what+you+see;Let's+build+something+that+matters.)](https://git.io/typing-svg)
+
 
 <br/>
 
