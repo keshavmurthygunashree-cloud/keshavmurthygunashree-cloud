@@ -17,8 +17,8 @@ Hey, I'm **Gunashree** — an Information Science Engineer, Android developer, a
 I live at the intersection of **clean UI**, **smart logic**, and **shipped products**. Whether it's a Kotlin app, a full-stack web project, or a Pac-Man contribution graph on my GitHub — if it's worth building, it's worth building right.
 
 **What I'm about:**
-- 🤖 Android + Generative AI @ MindMatrix — Jetpack Compose, Firebase, Agentforce
-- 🌐 Full-stack builder — React, Node.js, MongoDB, Python
+- 🤖 Android + Generative AI @ MindMatrix — Jetpack Compose, Agentforce
+- 🌐 Full-stack builder — React, Node.js, MongoDB, Java
 
 <br clear="right"/>
 
@@ -122,8 +122,7 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 <a href="https://github.com/keshavmurthygunashree-cloud">
   <img src="https://img.shields.io/badge/GitHub-C9A84C?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
-
-<br/><br/>
+<br/>
 
 <a href="https://github.com/keshavmurthygunashree-cloud?tab=repositories">
   <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-000000?style=for-the-badge&logo=github&logoColor=C9A84C&labelColor=1a1400&color=C9A84C" />
@@ -139,24 +138,6 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="150"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gunashree-keshavmurthy-62188625b">
-    <img src="https://img.shields.io/badge/LinkedIn-Gunashree-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
 
 ## 💡 Fun Quote
 
