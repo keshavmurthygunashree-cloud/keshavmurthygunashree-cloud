@@ -1,4 +1,17 @@
-<h1 align="center">Welcome to My GitHub 👋</h1>
+<!-- 🔥 Welcome Banner -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F7D060&size=35&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub" />
+</h1>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Coder-black?style=for-the-badge&color=000000&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/Problem-Solver-gold?style=for-the-badge&color=F7D060&labelColor=111111"/>
+</p>
+
+---
+
 <!-- 🌙 Dark Themed GitHub Profile README -->
 <h3 align="center">Android Developer | Frontend Developer</h3>
 
