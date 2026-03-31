@@ -17,11 +17,12 @@
 
 ## ◈ About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" height="500"/>
 
 Hey, I'm **Gunashree** — an Information Science Engineer, Android developer, and creative problem-solver currently interning at **MindMatrix** building AI-powered Android apps with Jetpack Compose and at "FresherProfiles" - Full Stack Development using React and Node.js.
 
 I live at the intersection of **clean UI**, **smart logic**, and **shipped products**. Whether it's a Kotlin app, a full-stack web project, or a Pac-Man contribution graph on my GitHub — if it's worth building, it's worth building right.
+<br> </br>
 
 **What I'm about:**
 - 🤖 Android + Generative AI @ MindMatrix — Jetpack Compose, Agentforce
