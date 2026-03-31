@@ -115,23 +115,11 @@ I live at the intersection of **clean UI**, **smart logic**, and **shipped produ
 
 <br/>
 
-<a href="https://www.linkedin.com/in/srajanfact" target="_blank">
+<a href="https://www.linkedin.com/in/gunashree-keshavmurthy-62188625b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-C9A84C?style=for-the-badge&logo=linkedin&logoColor=000000" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/___srajan___/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-C9A84C?style=for-the-badge&logo=instagram&logoColor=000000" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/phoenixtriibe" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-C9A84C?style=for-the-badge&logo=hackerrank&logoColor=000000" />
-</a>
-&nbsp;
-<a href="mailto:phoenixtriibe@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-C9A84C?style=for-the-badge&logo=gmail&logoColor=000000" />
-</a>
-&nbsp;
-<a href="https://github.com/Srajan-fact">
+<a href="https://github.com/keshavmurthygunashree-cloud">
   <img src="https://img.shields.io/badge/GitHub-C9A84C?style=for-the-badge&logo=github&logoColor=000000" />
 </a>
 
